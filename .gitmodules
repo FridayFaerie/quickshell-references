@@ -43,3 +43,9 @@
 [submodule "src/wm-packages--pikabar"]
 	path = src/wm-packages--pikabar
 	url = https://git.pika-os.com/wm-packages/pikabar
+[submodule "src/end-4--dots-hyprland"]
+	path = src/end-4--dots-hyprland
+	url = https://github.com/end-4/dots-hyprland
+[submodule "src/qxb3--conf"]
+	path = src/qxb3--conf
+	url = https://github.com/qxb3/conf
