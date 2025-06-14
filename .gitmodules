@@ -4,3 +4,12 @@
 [submodule "src/PapaMilky--Quickshell"]
 	path = src/PapaMilky--Quickshell
 	url = https://git.drinkmymilk.org/PapaMilky/Quickshell
+[submodule "src/caelestia-dots--shell"]
+	path = src/caelestia-dots--shell
+	url = https://github.com/caelestia-dots/shell.git
+[submodule "src/end-4--dots-hyprland"]
+	path = src/end-4--dots-hyprland
+	url = https://github.com/end-4/dots-hyprland
+[submodule "src/flickowoa--zephyr"]
+	path = src/flickowoa--zephyr
+	url = https://github.com/flickowoa/zephyr
