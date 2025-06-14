@@ -1,3 +1,6 @@
 [submodule "src/FridayFaerie--quickshell"]
 	path = src/FridayFaerie--quickshell
 	url = https://github.com/FridayFaerie/quickshell
+[submodule "src/PapaMilky--Quickshell"]
+	path = src/PapaMilky--Quickshell
+	url = https://git.drinkmymilk.org/PapaMilky/Quickshell
