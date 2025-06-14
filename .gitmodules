@@ -7,9 +7,6 @@
 [submodule "src/caelestia-dots--shell"]
 	path = src/caelestia-dots--shell
 	url = https://github.com/caelestia-dots/shell.git
-[submodule "src/end-4--dots-hyprland"]
-	path = src/end-4--dots-hyprland
-	url = https://github.com/end-4/dots-hyprland
 [submodule "src/flickowoa--zephyr"]
 	path = src/flickowoa--zephyr
 	url = https://github.com/flickowoa/zephyr
@@ -22,3 +19,27 @@
 [submodule "src/outfoxxed--nixnew"]
 	path = src/outfoxxed--nixnew
 	url = https://git.outfoxxed.me/outfoxxed/nixnew
+[submodule "src/pgattic--dotfiles"]
+	path = src/pgattic--dotfiles
+	url = https://github.com/pgattic/dotfiles
+[submodule "src/pterror--config-quickshell"]
+	path = src/pterror--config-quickshell
+	url = https://github.com/pterror/config-quickshell
+[submodule "src/quickshell--quickshell-examples"]
+	path = src/quickshell--quickshell-examples
+	url = https://git.outfoxxed.me/quickshell/quickshell-examples
+[submodule "src/Readf0x--quickshell"]
+	path = src/Readf0x--quickshell
+	url = https://github.com/Readf0x/quickshell
+[submodule "src/Rexcrazy804--Zaphkiel"]
+	path = src/Rexcrazy804--Zaphkiel
+	url = https://github.com/Rexcrazy804/Zaphkiel
+[submodule "src/SirEthanator--Quickshell-WIP"]
+	path = src/SirEthanator--Quickshell-WIP
+	url = https://github.com/SirEthanator/Quickshell-WIP
+[submodule "src/starchglazer--shell"]
+	path = src/starchglazer--shell
+	url = https://github.com/starchglazer/shell
+[submodule "src/wm-packages--pikabar"]
+	path = src/wm-packages--pikabar
+	url = https://git.pika-os.com/wm-packages/pikabar
