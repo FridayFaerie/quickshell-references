@@ -13,3 +13,12 @@
 [submodule "src/flickowoa--zephyr"]
 	path = src/flickowoa--zephyr
 	url = https://github.com/flickowoa/zephyr
+[submodule "src/mewoocat--NixOS"]
+	path = src/mewoocat--NixOS
+	url = https://github.com/mewoocat/NixOS
+[submodule "src/nydragon--nysh"]
+	path = src/nydragon--nysh
+	url = https://github.com/nydragon/nysh
+[submodule "src/outfoxxed--nixnew"]
+	path = src/outfoxxed--nixnew
+	url = https://git.outfoxxed.me/outfoxxed/nixnew
