@@ -19,10 +19,6 @@
 [submodule "src/end-4--dots-hyprland"]
 	path = src/end-4--dots-hyprland
 	url = https://github.com/end-4/dots-hyprland
-[submodule "src/qxb3--conf"]
-	path = src/qxb3--conf
-	url = https://github.com/qxb3/conf
-	branch = bing-chilling-knight
 [submodule "src/rice-cracker-dev--rix-shell"]
 	path = src/rice-cracker-dev--rix-shell
 	url = https://github.com/rice-cracker-dev/rix-shell
