@@ -1,3 +1,31 @@
-[submodule "src/FridayFaerie--quickshell"]
-	path = src/FridayFaerie--quickshell
-	url = https://github.com/FridayFaerie/quickshell
+[submodule "src/caelestia-dots--shell"]
+	path = src/caelestia-dots--shell
+	url = https://github.com/caelestia-dots/shell.git
+[submodule "src/outfoxxed--nixnew"]
+	path = src/outfoxxed--nixnew
+	url = https://git.outfoxxed.me/outfoxxed/nixnew
+[submodule "src/quickshell--quickshell-examples"]
+	path = src/quickshell--quickshell-examples
+	url = https://git.outfoxxed.me/quickshell/quickshell-examples
+[submodule "src/Readf0x--quickshell"]
+	path = src/Readf0x--quickshell
+	url = https://github.com/Readf0x/quickshell
+[submodule "src/Rexcrazy804--Zaphkiel"]
+	path = src/Rexcrazy804--Zaphkiel
+	url = https://github.com/Rexcrazy804/Zaphkiel
+[submodule "src/wm-packages--pikabar"]
+	path = src/wm-packages--pikabar
+	url = https://git.pika-os.com/wm-packages/pikabar
+[submodule "src/end-4--dots-hyprland"]
+	path = src/end-4--dots-hyprland
+	url = https://github.com/end-4/dots-hyprland
+[submodule "src/qxb3--conf"]
+	path = src/qxb3--conf
+	url = https://github.com/qxb3/conf
+	branch = bing-chilling-knight
+[submodule "src/rice-cracker-dev--rix-shell"]
+	path = src/rice-cracker-dev--rix-shell
+	url = https://github.com/rice-cracker-dev/rix-shell
+[submodule "src/Ly-sec--nixos"]
+	path = src/Ly-sec--nixos
+	url = https://github.com/Ly-sec/nixos
