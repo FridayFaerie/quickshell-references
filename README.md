@@ -6,7 +6,7 @@ WARNING: they could quite easily run random commands on your computer :) I don't
 to use, do `git submodule init src/*`, or you can do `git submodule init src/<name>` 
 
 
-after that, do `git submodule update`
+after that, do `git submodule update --depth 1`
 
 finally, you can just `qs -p <name>` from the root folder to run their quickshell things
 
