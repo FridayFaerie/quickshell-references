@@ -17,9 +17,9 @@ some might need you to install dependencies, like Material Symbols font or somet
 
 Things I wanted to add, but...:
 
-https://git.drinkmymilk.org/PapaMilky/Quickshell/ - can't connect to the site reliably :(
-https://github.com/Xanazf/quickshell_config - crashes :(
-https://github.com/flickowoa/zephyr - such a large repo.. :(
-https://github.com/Delamox/Hellshell - doesn't work; missing a Tray.qml (forgot to git add?) :(
-https://github.com/pterror/config-quickshell - example.shell.qml doesn't work after refactors :(
-https://github.com/SirEthanator/Quickshell-WIP - no longer provides default config.json, doesn't show anything by default :(
+- https://git.drinkmymilk.org/PapaMilky/Quickshell/ - can't connect to the site reliably :(
+- https://github.com/Xanazf/quickshell_config - crashes :(
+- https://github.com/flickowoa/zephyr - such a large repo.. :(
+- https://github.com/Delamox/Hellshell - doesn't work; missing a Tray.qml (forgot to git add?) :(
+- https://github.com/pterror/config-quickshell - example.shell.qml doesn't work after refactors :(
+- https://github.com/SirEthanator/Quickshell-WIP - no longer provides default config.json, doesn't show anything by default :(
