@@ -12,6 +12,8 @@ finally, you can just `qs -p <name>` from the root folder to run their quickshel
 
 some might need you to install dependencies, like Material Symbols font or something
 
+to update, do `git submodule foreach git pull`
+
 
 
 Things I wanted to add, but...:
