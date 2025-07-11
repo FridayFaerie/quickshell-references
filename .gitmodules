@@ -25,3 +25,6 @@
 [submodule "src/Ly-sec--nixos"]
 	path = src/Ly-sec--nixos
 	url = https://github.com/Ly-sec/nixos
+[submodule "src/mat--Quickbar"]
+	path = src/mat--Quickbar
+	url = https://git.allpurposem.at/mat/Quickbar.git
