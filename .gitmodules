@@ -28,3 +28,6 @@
 [submodule "src/mat--Quickbar"]
 	path = src/mat--Quickbar
 	url = https://git.allpurposem.at/mat/Quickbar.git
+[submodule "src/pterror--config-quickshell"]
+	path = src/pterror--config-quickshell
+	url = https://github.com/pterror/config-quickshell
