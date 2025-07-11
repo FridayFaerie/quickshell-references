@@ -21,5 +21,4 @@ Things I wanted to add, but...:
 - https://github.com/Xanazf/quickshell_config - crashes :(
 - https://github.com/flickowoa/zephyr - such a large repo.. :(
 - https://github.com/Delamox/Hellshell - doesn't work; missing a Tray.qml (forgot to git add?) :(
-- https://github.com/pterror/config-quickshell - example.shell.qml doesn't work after refactors :(
 - https://github.com/SirEthanator/Quickshell-WIP - no longer provides default config.json, doesn't show anything by default :(
